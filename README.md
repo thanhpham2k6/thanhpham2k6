@@ -16,9 +16,11 @@
 
 ---
 
-### 📊 GitHub Stats
+## 🛡️ GitHub Badges
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thanhpham2k6&theme=tokyonight)
+![Followers](https://img.shields.io/github/followers/thanhpham2k6?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/thanhpham2k6?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge&logo=github)
 
 ---
 
